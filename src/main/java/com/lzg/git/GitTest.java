@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("master push!");
         System.out.println("test pull!");
+        System.out.println("test push in gitee");
 
     }
 }
